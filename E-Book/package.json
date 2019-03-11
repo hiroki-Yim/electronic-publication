@@ -1,0 +1,15 @@
+{
+  "name": "e-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "epub-zipper": "^1.2.11",
+    "path": "^0.12.7"
+  }
+}
