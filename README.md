@@ -2,13 +2,6 @@
 こんにちは！Classmethodの新卒エンジニアのホンギです。
 [以前のレポート](https://dev.classmethod.jp/articles/summit_korea_rapidly_transfer_content/)に続いてセッションレポートを作成してみました。
 韓国のエンジニアの方々が色んなセッションのレポートを作成しているので、興味がありましたら、是非他のレポートも読んでみてください！
-<iframe
-  class="hatenablogcard"
-  style="width:100%;"
-  frameborder="0"
-  scrolling="no"
-  src="https://hatenablog-parts.com/embed?url=https://dev.classmethod.jp/series/aws-summit-online-korea-2020/"
-></iframe>
 
 本記事では技術トラック1番の「S3、君はここまでできるね(Amazon S3新規機能紹介)」セッションの記事です。記事で使用された当該セッションのPPT資料は[PDF資料(韓国語)](https://mktg-apac.s3-ap-southeast-1.amazonaws.com/AWS+Summit+Online+Korea/Track3_Session5_S3,+%EB%84%8C+%EC%9D%B4%EA%B2%83%EA%B9%8C%EC%A7%80+%ED%95%A0+%EC%88%98+%EC%9E%88%EB%84%A4(Amazon+S3+%EC%8B%A0%EA%B7%9C+%EA%B8%B0%EB%8A%A5+%EC%86%8C%EA%B0%9C).pdf)をお読みください！  
 よろしくお願いします!🙇‍♂️
